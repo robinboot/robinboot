@@ -1,11 +1,9 @@
-### Hi there 👋
-
 <!--
 **robinboot/robinboot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-
+-->
 
 Hi 👋 My name is Sercan Halil Gulmus
 ====================================
@@ -22,14 +20,8 @@ Computer Engineer/Full Stack Developer
 * 🤔  I’m looking for help with TEST
 * 💬  Ask me about ...
 * 📫  How to reach me: ...
-- 😄  Pronouns: ...
-- ⚡  Fun fact: ...
-
-<a href="https://www.twitter.com/sercan" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/sercan?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/robinboot" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/robinboot?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/sercan" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/sercan?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+* 😄  Pronouns: ...
+* ⚡  Fun fact: ...
 
 ### Skills
 
@@ -74,15 +66,9 @@ src="https://img.shields.io/twitch/status/sercan?logo=twitchsx&style=for-the-bad
 
 <a href="http://www.github.com/robinboot"><img src="https://activity-graph.herokuapp.com/graph?username=robinboot&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/robinboot" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinboot&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/robinboot/shg.github.io" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=robinboot&repo=shg.github.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/robinboot/AspNetCore.Docs" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=robinboot&repo=AspNetCore.Docs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/robinboot/Powershell-Scripts" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=robinboot&repo=Powershell-Scripts&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 ### Support Me
 
