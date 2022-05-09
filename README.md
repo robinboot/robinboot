@@ -22,6 +22,8 @@ Computer Engineer/Full Stack Developer
 * 😄  Pronouns: ...
 * ⚡  Fun fact: ...
 
+
+<!--
 ### Skills
 
 <p align="left">
@@ -66,3 +68,4 @@ Computer Engineer/Full Stack Developer
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/sercan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+-->
