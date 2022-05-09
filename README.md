@@ -12,7 +12,7 @@ Computer Engineer/Full Stack Developer
 
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [MyPortfolio](http://github.com/robinboot)
-* ✉️  You can contact me at [sercan.gulmus@gmail.com](mailto:sercan.gulmus@gmail.com)
+* ✉️  You can contact me at [📫](mailto:sercan.gulmus@gmail.com)
 * 🚀  I'm currently working on [Drone Renderer](http://github.com/robinboot)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on AR / VR Projects
