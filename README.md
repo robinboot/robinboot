@@ -23,8 +23,6 @@ Computer Engineer/Full Stack Developer
 * ⚡  Fun fact: ...
 
 
-https://www.buymeacoffee.com/sercanhg
-
 <!--
 ### Skills
 
