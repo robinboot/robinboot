@@ -7,8 +7,7 @@ Here are some ideas to get you started:
 Hi 👋 My name is Sercan Halil Gulmus (RobinBoot)
 ====================================
 
-Computer Engineer/ Full Stack Developer/ 
-IT Admin  
+Computer Engineer/ Full Stack Developer/ IT Admin  
 --------------------------------------
 
 * 🌍  I'm based in Turkey
