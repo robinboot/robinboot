@@ -21,6 +21,21 @@ Computer Engineer/ Full Stack Developer/ IT Admin
 * 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/sercan-halil-gulmus)
 * 😄  Pronouns: ...
 * ⚡  Fun fact: ...
+* :bone:
+* :eye:
+* :detective:
+* :superhero:
+* :superhero_man:
+* :vampire:
+* 	:skier:
+* 	:biking_man:
+* :surfing_man:
+* :golfing:
+* :family_man_woman_boy:
+* :family_man_boy:
+* :maple_leaf:	
+* :fallen_leaf:
+* :ringed_planet:
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 <!--
