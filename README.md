@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 -->
 
-Hi 👋 My name is Sercan Halil Gulmus (RobinBoot)
+Hi 👋 My name is Sercan Halil Gulmus (RobinBoot 👽)
 ====================================
 
 Computer Engineer/ Full Stack Developer/ IT Admin  
@@ -17,10 +17,12 @@ Computer Engineer/ Full Stack Developer/ IT Admin
 * 🧠  I'm learning Python/Unity
 * 🤝  I'm open to collaborating on AR / VR Projects
 * 🤔  I’m looking for help with TEST
+* 💪  I'm powerfull at Learning
 * 💬  Ask me about Computer Engineering
 * 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/sercan-halil-gulmus)
 * 😄  Pronouns: ...
 * ⚡  Fun fact: ...
+* 👻
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 <!--
@@ -65,7 +67,7 @@ Computer Engineer/ Full Stack Developer/ IT Admin
 
 -->
 
-### Support Me
+### 🔋 Support Me
 
 <a href="https://www.buymeacoffee.com/sercanhg"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
