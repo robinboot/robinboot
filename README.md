@@ -2,7 +2,6 @@
 **robinboot/robinboot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 -->
 
 Hi 👋 My name is Sercan Halil Gulmus (RobinBoot)
@@ -15,7 +14,7 @@ Computer Engineer/ Full Stack Developer/ IT Admin
 * 🖥️  See my portfolio at [MyPortfolio](http://github.com/robinboot/?tab=repositories)  
 * ✉️  You can contact me at [📫](mailto:sercan.gulmus@gmail.com)
 * 🚀  I'm currently working on [Drone Vision Renderer](http://github.com/robinboot)
-* 🧠  I'm learning Python
+* 🧠  I'm learning Python/Unity
 * 🤝  I'm open to collaborating on AR / VR Projects
 * 🤔  I’m looking for help with TEST
 * 💬  Ask me about Computer Engineering
