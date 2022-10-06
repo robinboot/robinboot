@@ -23,6 +23,9 @@ Computer Engineer/ Full Stack Developer/ IT Admin
 * 😄  Pronouns: ...
 * ⚡  Fun fact: ...
 * 👻
+* 📅
+* 📌
+* 🔑
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 <!--
