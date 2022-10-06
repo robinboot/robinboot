@@ -1,21 +1,9 @@
-
-
-
-
-
-
 <!--
 **robinboot/robinboot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/robinboot/AI/blob/main/DALL%C2%B7E%202022-10-04%2017.00.16%20-%20astronaut.png?raw=true">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github.com/robinboot/AI/blob/main/DALL%C2%B7E%202022-10-04%2017.00.16%20-%20astronaut.png?raw=true">
-</picture>
-
 
 Hi 👋 My name is Sercan Halil Gulmus (RobinBoot)
 ====================================
