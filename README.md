@@ -28,7 +28,6 @@ Computer Engineer/ Full Stack Developer/ IT Admin
 * ⚡  Fun fact: ...
 * 👻  Freelancer 
 * 📅📌🔑
-
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 <!--
 ### Skills
