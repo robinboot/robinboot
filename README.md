@@ -1,3 +1,5 @@
+<img src="https://github.com/robinboot/robinboot/blob/main/logo3.png" width="500" /></a>
+
 <!--
 **robinboot/robinboot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +12,7 @@ Hi 👋 My name is Sercan Halil Gulmus (RobinBoot 👽)
 Computer Engineer/ Full Stack Developer/ IT Admin  
 --------------------------------------
 
-<img src="https://github.com/robinboot/robinboot/blob/main/logo3.png" width="500" /></a>
+
 
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [MyPortfolio](http://github.com/robinboot/?tab=repositories)  
