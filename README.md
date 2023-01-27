@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 Hi 👋 My name is Sercan Halil Gulmus (RobinBoot 👽)
 ====================================
 
-📌 Computer Engineer/ Full Stack Developer/ IT Admin  
+Computer Engineer/ Full Stack Developer/ IT Admin  
 --------------------------------------
 
 
@@ -26,10 +26,8 @@ Hi 👋 My name is Sercan Halil Gulmus (RobinBoot 👽)
 * 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/sercan-halil-gulmus)
 * 😄  Pronouns: ...
 * ⚡  Fun fact: ...
-* 👻  Freelancer
-* 📅
-
-* 🔑
+* 👻  Freelancer 
+* 📅📌🔑
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 <!--
